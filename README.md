@@ -3,7 +3,7 @@
   <h3 align="center">OpenSea Data Pinner</h3>
 
   <p align="center">
-Pin any existing OpenSea NFT on IPFS using only the Smart Contract address and the Token ID with the resulting CID on the Blockchain..   <br />
+Pin any existing OpenSea NFT on IPFS using only the Smart Contract address and the Token ID with the resulting CID on the Blockchain.   <br />
     <br />
     <a href="https://opensea.decentapi.com/">Try our Dapp</a>
     ·
